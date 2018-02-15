@@ -1,2 +1,0 @@
-# aaProjects
-A bunch AppAcademyProjects
